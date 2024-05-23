@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/repsoft-final-project/static/css/main.ece49558.css",
+    "main.js": "/repsoft-final-project/static/js/main.29ae4800.js",
+    "static/js/453.5e560239.chunk.js": "/repsoft-final-project/static/js/453.5e560239.chunk.js",
+    "static/media/pic1.jpeg": "/repsoft-final-project/static/media/pic1.eac25481ad1c99510146.jpeg",
+    "static/media/logo.svg": "/repsoft-final-project/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/repsoft-final-project/index.html",
+    "main.ece49558.css.map": "/repsoft-final-project/static/css/main.ece49558.css.map",
+    "main.29ae4800.js.map": "/repsoft-final-project/static/js/main.29ae4800.js.map",
+    "453.5e560239.chunk.js.map": "/repsoft-final-project/static/js/453.5e560239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ece49558.css",
+    "static/js/main.29ae4800.js"
+  ]
+}
